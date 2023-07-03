@@ -1,0 +1,164 @@
+/*.Rectangle_29__Stroke_ {
+    background-image: url("Rectangle 29 (Stroke).png");
+    position: absolute;
+    left: 130px;
+    top: 60px;
+    width: 108px;
+    height: 55px;
+    z-index: 97;
+}*/
+
+
+/*.About_us {
+    font-size: 22px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: left;
+    position: absolute;
+    left: 449.718px;
+    top: 76px;
+    z-index: 91;
+}
+.Home {
+    font-size: 22px;
+    font-family: "Roboto";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: left;
+    position: absolute;
+    left: 347.718px;
+    top: 76px;
+    z-index: 90;
+}*/
+
+body{
+    background-color: #1B1A1B;
+}
+div {
+    display: inline;
+    font-size: 22px;
+    font-family: "Roboto";
+    text-align: left;
+    position: absolute;
+    color: #ffffff;
+}
+.menu {
+    display: inline;
+    width: 1440px;
+    height: 2347px;
+
+}
+.contact {
+    width: 102px;
+    text-transform: uppercase;
+    left: 798.718px;
+    top: 76px;
+}
+.blog {
+    width: 55px;
+    color: #ffb822;
+    text-transform: uppercase;
+    left: 703.718px;
+    top: 76px;
+}
+.other {
+    position: absolute;
+    text-transform: uppercase;
+    left: 593.718px;
+    top: 76px;
+}
+.about {
+    text-transform: uppercase;
+    position: absolute;
+    left: 449.718px;
+    top: 76px;
+    z-index: 91;
+}
+.home {
+    text-transform: uppercase;
+    position: absolute;
+    left: 347.718px;
+    top: 76px;
+
+}
+.rectangle {
+     background-image: url("image/rectangle.png");
+     position: absolute;
+     left: 1030px;
+     top: 60px;
+     width: 280px;
+     height: 55px;
+ }
+.search {
+    position: absolute;
+    left: 40px;
+    top: 15px;
+}
+.magnifier{
+    position: absolute;
+    left: 240px;
+    top: 15px;
+    width: 32px;
+    height: 32px;
+
+}
+
+.present {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1440px;
+    height: 2347px;
+}
+.shadow {
+    background-image: url("image/shadow.png");
+    opacity: 0.502;
+
+    left: 492.85px;
+    top: 505.5px;
+    width: 1180px;
+    height: 780px;
+}
+.kate_leo {
+    background-image: url("image/kate-leo.png");
+
+    left: 492.85px;
+    top: 505.5px;
+    width: 1180px;
+    height: 780px;
+}
+.kate {
+     font-size: 100px;
+    color: #ffb822;
+     text-transform: uppercase;
+     line-height: 1;
+     text-align: left;
+     position: absolute;
+     left: 492.85px;
+     top: 505.5px;
+ }
+.text {
+      font-size: 40px;
+      text-transform: uppercase;
+      position: absolute;
+      left: 318.444px;
+      top: 622.5px;
+  }
+/*
+.title {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1440px;
+    height: 2347px;
+    z-index: 79;
+}
+
+
+
+
+
+
